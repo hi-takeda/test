@@ -15,3 +15,8 @@ add_executable(
   test
   ${SRC_DIR}/test.cpp
   )
+
+add_executable(
+  create_destroy_mesh
+  ${SRC_DIR}/create_destroy_mesh.cpp
+  )
