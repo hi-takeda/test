@@ -20,3 +20,9 @@ add_executable(
   create_destroy_mesh
   ${SRC_DIR}/create_destroy_mesh.cpp
   )
+
+add_executable(
+  vertical
+  ${SRC_DIR}/vertical.cpp
+  )
+
